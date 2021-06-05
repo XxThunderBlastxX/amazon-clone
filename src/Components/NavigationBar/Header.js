@@ -7,7 +7,7 @@ import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 function Header(props) {
     return (
         <nav className="header">
-            <Link to='/login'>
+            <Link to='/'>
                 <img className="header__logo" src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"/>
             </Link>
 
