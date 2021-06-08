@@ -20,7 +20,6 @@ function HomePage() {
                     rating={5}
                     image="https://images-eu.ssl-images-amazon.com/images/I/510cWHKXlrL._AC_UL320_SR320,320_.jpg" />
             </div>
-
             <div className="home__row">
                 <Product
                     id="1726812"
@@ -51,8 +50,6 @@ function HomePage() {
             </div>
 
         </div>
-
-
     );
 }
 
